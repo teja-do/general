@@ -1,1 +1,40 @@
 
+Low Effort Applications:
+
+Simple, straightforward codebase with minimal dependencies
+Limited functionality, easy to understand and maintain
+No complex integrations or dependencies on other systems
+Can be easily updated or refactored by a single developer
+No significant technical debt or legacy code
+Can be easily replaced or rebuilt if needed
+Requires minimal testing and validation
+Examples: Simple web applications, small scripts, or basic tools.
+
+Medium Effort Applications:
+
+Moderate complexity, with some dependencies on other systems
+Requires some understanding of the codebase and its architecture
+May have some technical debt or legacy code, but it's manageable
+Can be updated or refactored by a small team of developers
+May require some testing and validation, but it's relatively straightforward
+May have some integrations with other systems, but they're well-documented
+Requires some maintenance and support, but it's manageable by a single team
+Examples: Mid-sized web applications, basic APIs, or simple integrations.
+
+High Effort Applications:
+
+Complex, highly customized codebase with many dependencies
+Requires deep understanding of the codebase, its architecture, and its integrations
+Significant technical debt or legacy code, which requires significant refactoring
+Requires a large team of developers to maintain and update
+Requires extensive testing and validation, including regression testing
+Has many integrations with other systems, which require careful management
+Requires significant maintenance and support, including dedicated resources and infrastructure
+Examples: Large-scale enterprise applications, complex integrations, or highly customized systems.
+
+Additional considerations:
+
+Code quality: Applications with poor code quality, such as high cyclomatic complexity or low code coverage, may require more effort to maintain or modernize.
+Technology stack: Applications built on outdated or proprietary technologies may require more effort to maintain or modernize.
+Integration complexity: Applications with many complex integrations may require more effort to maintain or modernize.
+Business criticality: Applications that are critical to the business may require more effort to maintain or modernize, as downtime or errors can have significant impact on the organization.
