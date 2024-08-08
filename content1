@@ -1,4 +1,3 @@
-
 Low Effort Applications:
 
 Simple, straightforward codebase with minimal dependencies
@@ -38,3 +37,54 @@ Code quality: Applications with poor code quality, such as high cyclomatic compl
 Technology stack: Applications built on outdated or proprietary technologies may require more effort to maintain or modernize.
 Integration complexity: Applications with many complex integrations may require more effort to maintain or modernize.
 Business criticality: Applications that are critical to the business may require more effort to maintain or modernize, as downtime or errors can have significant impact on the organization.
+By categorizing your applications based on the effort required to maintain or modernize them, you can prioritize your resources and allocate them more effectively. This can help you:
+
+Focus on the most critical applications first
+Allocate resources more efficiently
+Reduce the risk of application downtime or errors
+Improve the overall quality and maintainability of your applications
+
+
+
+-------------------------------------------------------------------------
+
+Low Effort Applications:
+
+Estimated duration: 2-4 weeks
+Recommended team size: 1 developer
+Tasks:
+Conduct code review and refactoring
+Update dependencies and libraries
+Simplify architecture and address technical debt
+Perform testing and validation
+Complexity: Low (simple UI, minimal data, straightforward backend)
+Volume of Work: Small
+Medium Effort Applications:
+
+Estimated duration: 4-8 weeks
+Recommended team size: 2 developers
+Tasks:
+Conduct code review and refactoring
+Update dependencies and libraries
+Simplify architecture and address technical debt
+Integrate with new systems and services
+Perform testing and validation
+Conduct regression testing
+Complexity: Medium (moderate UI, moderate data, moderate backend)
+Volume of Work: Moderate
+High Effort Applications:
+
+Estimated duration: 8-12 weeks
+Recommended team size: 3-4 developers
+Tasks:
+Conduct code review and refactoring
+Update dependencies and libraries
+Simplify architecture and address technical debt
+Integrate with new systems and services
+Perform testing and validation
+Conduct regression testing
+Address complex integrations and dependencies
+Update infrastructure and deployment scripts
+Complexity: High (complex UI, high data, complex backend)
+Volume of Work: High
+This revised estimate takes into account the complexity of the UI, data, and backend infrastructure, as well as the volume of work required for each application. However, please note that this is still a rough estimate, and the actual time required to rebuild the application may vary depending on the specific requirements of each application and the complexity of the migration.
