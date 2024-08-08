@@ -88,3 +88,22 @@ Update infrastructure and deployment scripts
 Complexity: High (complex UI, high data, complex backend)
 Volume of Work: High
 This revised estimate takes into account the complexity of the UI, data, and backend infrastructure, as well as the volume of work required for each application. However, please note that this is still a rough estimate, and the actual time required to rebuild the application may vary depending on the specific requirements of each application and the complexity of the migration.
+-------------------------------------------------
+
+Low Effort: 5 applications (36%)
+AT4
+Asequence editor app
+Arules-based pipeline schedule viewer app
+Aadditional reports
+ATFMS tank scheduling app
+Medium Effort: 6 applications (43%)
+ANASS
+AELS
+AMaintenance Planning Program
+Alegacy corporate pipeline scheduling app
+Alegacy field pipeline scheduling app
+Alegacy corporate schedule viewer app
+High Effort: 3 applications (21%)
+Alegacy field schedule viewer app
+ATank schedule builder app
+Areporting application
