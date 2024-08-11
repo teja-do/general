@@ -51,6 +51,9 @@ It enables quick deployment and scaling of customer-facing applications.
 Use Cases:
 Aggregating data from various financial systems for reporting, compliance, or analytics.
 Building a unified view of customer data from multiple sources.
+Why MongoDB?
+MongoDB's ability to handle diverse data formats and its powerful aggregation framework make it ideal for data integration and aggregation tasks.
+It can serve as a central repository for bringing together disparate data sets, enabling more comprehensive analysis.
 8. Risk Management and Compliance
 Use Cases:
 Storing and analyzing large volumes of unstructured data related to compliance, such as emails, transaction logs, and audit trails.
