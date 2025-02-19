@@ -38,3 +38,5 @@ Azure services such as Synapse, Cognitive Search, and Blob Storage ensure scalab
 
 
 This architecture is ideal for enterprises requiring a unified, intelligent search solution across structured and unstructured data sources.
+
+Server=tcp:calpine-demo.database.windows.net,1433;Initial Catalog=calpine-demo;Persist Security Info=False;User ID=calpineuser;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
